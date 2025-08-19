@@ -1,4 +1,4 @@
-Fazer uma aplicação Java em Eclipse, que permita ao usuário, por Scanner ou JOptionPane,
+3. Fazer uma aplicação Java em Eclipse, que permita ao usuário, por Scanner ou JOptionPane,
 entrar o tamanho (n) de um vetor de inteiros (limite a entrada a 100) e entrar com os n
 valores. Deve-se fazer uma classe de controle que tenha uma operação que receba o vetor
 como parâmetro, percorra o vetor utilizando for each e, caso o número seja ímpar, exiba o
